@@ -36,6 +36,10 @@ Identificar padrões e fatores associados à evasão de clientes, gerando insigh
 * Análise por variáveis numéricas: total gasto, tempo de contrato.
 * (Opcional) Análise de correlação entre variáveis e churn.
 
+![Matriz de correlaçao](https://github.com/user-attachments/assets/48ed7b9b-e0ad-46ad-ab23-33d7e7053661)
+
+
+
 ## Recomendações
 
 * Verificar se todas as etapas estão completas, especialmente as transformações de dados.
